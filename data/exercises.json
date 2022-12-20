@@ -1,0 +1,21 @@
+{
+  "exercises_list": [{
+    "name": "legs down hold",
+    "time": 45
+  }, {
+    "name": "break",
+    "time": 15
+  }, {
+    "name": "leg flutters",
+    "time": 45
+  }, {
+    "name": "break",
+    "time": 15
+  }, {
+    "name": "leg raise",
+    "time": 45
+  }, {
+    "name": "break",
+    "time": 15
+  }]
+}

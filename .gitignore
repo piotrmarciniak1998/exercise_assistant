@@ -1,0 +1,5 @@
+# ignore contents in venv
+venv
+
+# ignore contents in .idea
+.idea
